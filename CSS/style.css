@@ -29,7 +29,7 @@ button{
 }
 .option{
     color: blanchedalmond;
-    padding: 50px;
+    padding: 30px;
     text-decoration: none;
     font-size: 20px;
 }
@@ -39,22 +39,22 @@ button{
 }
 .Sections{
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     color:burlywood;
 }
 #contact{
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     color: blanchedalmond;
 }
 #Hobbies{
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     color: blanchedalmond;
 }
 #Education{
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     color: blanchedalmond;
 }
 .container{
