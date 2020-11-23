@@ -13,7 +13,7 @@ nav {
     text-decoration-color: blanchedalmond;
 }
 label{
-    font-size: 30px;
+    font-size: 25px;
     color: white;
 }
 #Signin{
@@ -81,7 +81,7 @@ button{
   border: 50px rgb(65, 65, 66);
   border-radius: 100%;
   position: relative;
-  left: 42%;
+  left: 40%;
 }
 .grid-container {
     display: grid;
